@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.backup
+*-backup.html
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+temp/
+
+# Don't commit personal data exports
+*-backup-*.json
