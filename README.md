@@ -1,5 +1,3 @@
-# Womens-Cycle-Tracker
-Track your menstrual cycle with ease. Log periods, predict upcoming cycles, and understand your patterns with this simple, private period tracker. All data stored securely on your device.
 <!DOCTYPE html>
 <html lang="en">
 <head>
