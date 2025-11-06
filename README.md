@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <title>Blossom — Standalone</title>
+  <title>Blossom — Tracker</title>
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <!-- CDN: React, ReactDOM, Babel for JSX transpile, Chart.js -->
   <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
